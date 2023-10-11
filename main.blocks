@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="Wo44+q,T6xN~31%*1_0U" x="260" y="-15"><statement name="HANDLER"><block type="basic_show_icon" id="/pm{!)L0zbARPZ_9/hYH"><field name="i">IconNames.Asleep</field><next><block type="device_pause" id="o7rlSdMIt}+f|XWD|KWm"><value name="pause"><shadow type="timePicker" id="4i}FZkvUxK!?47WIi.;L"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="7G=y[G?8t1)GwPrv+{Yv"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="Z+79?~H=%5L`ORC]U-v4"><value name="pause"><shadow type="timePicker" id="_-X{+}1rE0KNECmL1St2"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="7yAEe`*L8lS1(kku%i^a" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="*TFm}}@rC/hsK!M_Whe1"><value name="text"><shadow type="text" id="2,,WLc!h@RuRSmVQ!jW`"><field name="TEXT">You so cute</field></shadow></value></block></statement></block></xml>
